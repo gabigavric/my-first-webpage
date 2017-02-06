@@ -1,26 +1,25 @@
-# _{Gabrijela Gavric}_
+# Gabrijela Gavric}
 
-# _{February 06, 2017}_
+# February 06, 2017
 
 ## Description
 
-_{My first website serves as a base to compare my future work to. As well as introduce some things about me.}_
+My first website serves as a base to compare my future work to. As well as introduce some things about me.
 
 ## Setup/Installation Requirements
 
-_{There are no set-up or installation requirements!}_
+There are no set-up or installation requirements!
 
 ## Known Bugs
 
-_{There are no known bugs.}_
+There are no known bugs.
 
 ## Support and contact details
 
-_{Contact me for any file bugs or program errors.}_
+Contact me for any file bugs or program errors.
 
 ## Technologies Used
 
-_{Basic HTML.}_
-
+Basic HTML.
 
 Copyright (c) 2016
